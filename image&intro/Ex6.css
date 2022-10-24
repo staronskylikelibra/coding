@@ -1,0 +1,36 @@
+p{
+    font-family: Arial;
+}
+.Email{
+    font-size:17px;
+    height:10px;
+    margin-bottom: 20 px;
+    color:rgb(137, 134, 134);
+    margin-top: 3px;
+} 
+input{
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: 14px;
+    width: 400px;
+    border-radius:5px;
+}
+.Information{
+    font-size:17px;
+    color:rgb(137, 134, 134);
+    padding-top: 7px;
+    
+}
+.Code{
+    font-size:20px;
+    margin-left:0px;
+    margin-right:140px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border:none;
+    background-color:rgb(60, 60, 192);
+    border-radius: 27px;
+    color:aliceblue;
+}
